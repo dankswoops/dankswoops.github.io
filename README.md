@@ -1,1 +1,1 @@
-![Banner](banner.webp)
+![Banner](banner.jpg)
